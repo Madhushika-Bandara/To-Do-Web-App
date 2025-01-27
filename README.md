@@ -11,3 +11,8 @@
 
 # Database
   use Xampp and PHPmyadmin to access the databae.
+
+# Used Technologies 
+ Frontend - React
+ Backend - Node
+ Database - MySQL
