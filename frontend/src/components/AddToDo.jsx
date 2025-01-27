@@ -13,7 +13,7 @@ function AddToDo() {
     e.preventDefault();
 
     if (!tasks.title.trim() ) {
-      setError("A Title is required.");
+      setError("The title field cannot be empty.");
       return;
     }
 
